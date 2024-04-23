@@ -18,3 +18,6 @@ To use this module in your project, follow these steps:
  ```python
    import dibs_data
    ```
+## Further information
+
+For a detailed installation guide and further information on DIBS see the [wiki](https://github.com/IWUGERMANY/DibsCLI/wiki)
