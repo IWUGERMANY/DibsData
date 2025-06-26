@@ -28,7 +28,7 @@ Waste Heat generated close to building;0;1;40;thermal;0;0
 Electricity grid mix 2018 (GEMIS) ;2,4;1;505;electric;;
 Electricity grid mix;1,8;1;560;electric;2,3;1,5
 Electricity grid mix Replacement;2,8;1;860;electric;;
-None;0;1;0;none;;
-NoHeating;0;1;0;none;;
+None;0;1;0;none;0;0
+NoHeating;0;1;0;none;0;0
 District cooling;0,72;1;224;thermal;0,8;0,8
-NoCooling;0;1;0;none;;
+NoCooling;0;1;0;none;0;0
