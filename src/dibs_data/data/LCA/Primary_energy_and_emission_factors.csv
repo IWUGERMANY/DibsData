@@ -4,13 +4,13 @@ Natural gas;1,1;1,11;240;thermal;1,1;1,1
 Liquefied petroleum gas (LPG);1,1;1,09;270;thermal;;
 Hard coal;1,1;1,04;400;thermal;1,1;1,1
 Soft coal;1,2;1,07;430;thermal;;
-Biogas (general);1,1;1,11;140;thermal;;
+Biogas (general);1,1;1,11;140;thermal;0,8;0,8
 Biogas (generated close to building);0,3;1,11;75;thermal;;
-Biomethan (Condensing Boiler);0,7;1,11;140;thermal;;
+Biomethan (Condensing Boiler);0,7;1,11;140;thermal;0,8;0,8
 Biomethan (Combined Heat and Power);0,5;1,11;140;thermal;;
-Bio-oil (general);1,1;1,06;210;thermal;;
+Bio-oil (general);1,1;1,06;210;thermal;0,8;0,8
 Bio-oil (generated close to building);0,3;1,06;105;thermal;;
-Biogas Bio-oil Mix (general);1,1;1,085;175;thermal;1,1;1,1
+Biogas Bio-oil Mix (general);1,1;1,085;175;thermal;0,8;0,8
 Wood;0,2;1,08;20;thermal;0,8;0,8
 District heating (Combined Heat and Power) Coal;0,7;1;300;thermal;;
 District heating (Combined Heat and Power) Gas or Liquid fuels;0,7;1;180;thermal;0,8;0,8
@@ -26,7 +26,7 @@ Heat via Residential Waste;0;1;20;thermal;;
 Heat via close to building Combined Heat and Power;0,6;1;180;thermal;;
 Waste Heat generated close to building;0;1;40;thermal;0;0
 Electricity grid mix 2018 (GEMIS) ;2,4;1;505;electric;;
-Electricity grid mix;1,8;1;560;electric;2,3;1,5
+Electricity grid mix;1,8;1;560;electric;2,3;1,4
 Electricity grid mix Replacement;2,8;1;860;electric;;
 None;0;1;0;none;0;0
 NoHeating;0;1;0;none;0;0
