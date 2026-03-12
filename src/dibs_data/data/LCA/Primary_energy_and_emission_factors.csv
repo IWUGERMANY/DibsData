@@ -4,14 +4,14 @@ Natural gas;1,1;1,11;240;thermal;1,1;1,1
 Liquefied petroleum gas (LPG);1,1;1,09;270;thermal;1,1;1,1
 Hard coal;1,1;1,04;400;thermal;1,1;1,1
 Soft coal;1,2;1,07;430;thermal;;
-Biogas (general);1,1;1,11;140;thermal;0,8;0,8
+Biogas (general);1,1;1,11;140;thermal;0,7;0,7
 Biogas (generated close to building);0,3;1,11;75;thermal;;
-Biomethan (Condensing Boiler);0,7;1,11;140;thermal;0,8;0,8
+Biomethan (Condensing Boiler);0,7;1,11;140;thermal;0,7;0,7
 Biomethan (Combined Heat and Power);0,5;1,11;140;thermal;;
 Bio-oil (general);1,1;1,06;210;thermal;0,8;0,8
 Bio-oil (generated close to building);0,3;1,06;105;thermal;;
-Biogas Bio-oil Mix (general);1,1;1,085;175;thermal;0,8;0,8
-Wood;0,2;1,08;20;thermal;0,8;0,8
+Biogas Bio-oil Mix (general);1,1;1,085;175;thermal;0,7;0,7
+Wood;0,2;1,08;20;thermal;0,7;0,7
 District heating (Combined Heat and Power) Coal;0,7;1;300;thermal;;
 District heating (Combined Heat and Power) Gas or Liquid fuels;0,7;1;180;thermal;0,8;0,7
 District heating (Combined Heat and Power) Renewable fuels;0;1;40;thermal;;
