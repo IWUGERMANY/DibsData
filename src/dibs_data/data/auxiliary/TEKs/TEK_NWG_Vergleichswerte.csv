@@ -56,6 +56,6 @@ Verkehrsgebäude;38,4;4;3,4;16;0;0;0;53,7;54
 Rechenzentrum;5;5;20;10;100;20;20;100;55
 Technikgebäude (Ver- und Entsorgung);40;2;10;10;1;0;1;20;56
 Sonstiges Nichtwohngebäude;2;2;0;10;0;0;0;5;57
-Wohnen;;25;;;;;;;58
-Wohnen EFH;;20;;;;;;;59
-Wohnen MFH;;30;;;;;;;60
+Wohnen;;12,5;;;;;;;58
+Wohnen EFH;;10;;;;;;;59
+Wohnen MFH;;15;;;;;;;60
